@@ -12,3 +12,4 @@ jobs:
           python-version: '3.12'
       - run: python tools/validate_layout.py
       - run: python tools/prepare_patches.py --help
+      - run: python -m unittest discover -s tests -v
