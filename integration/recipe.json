@@ -2,7 +2,7 @@
   "schema": 2,
   "status": "Source-layout migration of the published release. Device/common changes are committed in their pinned forks. Apply only the residual recipe here. Native rebuild and fresh runtime qualification have not been performed for this layout.",
   "manifest": "manifests/pinned.xml",
-  "manifest_sha256": "191a19f2e58c3bd735671951f4d74a1fc08c65681893ef1268b5cf0967691858",
+  "manifest_sha256": "da25004dfb7d136469858f165e872db92b13c04be512561dd94d4f00a2c49cd6",
   "files": [
     {
       "path": "build/soong/ui/build/soong.go",

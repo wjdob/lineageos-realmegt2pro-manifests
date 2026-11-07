@@ -49,7 +49,7 @@
   <project path="device/lineage/atv" name="LineageOS/android_device_lineage_atv" remote="github" revision="32c40894271f41483075e9e1215c2734c3dc9abe" upstream="refs/heads/lineage-24.0" clone-depth="1" />
   <project path="device/lineage/car" name="LineageOS/android_device_lineage_car" remote="github" revision="0f3b40241c5ceff1be0d19dd41bffca028e7c75c" upstream="refs/heads/lineage-24.0" clone-depth="1" />
   <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="github" revision="a29110ed8d2933c8f0da9c6ff613c4b68b7e4ad8" upstream="refs/heads/lineage-24.0" clone-depth="1" />
-  <project path="device/oneplus/sm8450-common" name="wjdob/android_device_oneplus_sm8450-common" remote="github" revision="d473ff7505fa3b35b8eefabef11cde11c3d42bdc" upstream="refs/heads/lineage-24.0" clone-depth="1" />
+  <project path="device/oneplus/sm8450-common" name="wjdob/android_device_oneplus_sm8450-common" remote="github" revision="19a47fb1b97dd06be6d73f21cfc547ede1b79f74" upstream="refs/heads/lineage-24.0" clone-depth="1" />
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,qssi" remote="github" revision="a8385f33b31aac5ba7f001413f4d67c7c9bf632e" upstream="refs/heads/lineage-24.0" clone-depth="1" />
   <project path="device/qcom/sepolicy-legacy-um" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,sdm660" remote="github" revision="3ba04b19a72afb83c5793c7c908670d559a1c5e6" clone-depth="1" />
   <project path="device/qcom/sepolicy_vndr/legacy-um" name="LineageOS/android_device_qcom_sepolicy_vndr" groups="qcom,lahaina" remote="github" revision="d8b5ffdf51074f0931096991d9e9a9294ad31c98" clone-depth="1" />
@@ -58,7 +58,7 @@
   <project path="device/qcom/sepolicy_vndr/sm8650" name="LineageOS/android_device_qcom_sepolicy_vndr" groups="qcom,lanai-vendor" remote="github" revision="3d37d21988dcc27bacefc37bb469b628d5790322" clone-depth="1" />
   <project path="device/qcom/sepolicy_vndr/sm8750" name="LineageOS/android_device_qcom_sepolicy_vndr" groups="qcom,pakala-vendor" remote="github" revision="b25101da34353112dc674d73ec3a8df2cdfcde18" clone-depth="1" />
   <project path="device/qcom/sepolicy_vndr/sm8850" name="LineageOS/android_device_qcom_sepolicy_vndr" groups="qcom,kaanapali-vendor" remote="github" revision="520af592e4b13685e241f3f99b9b74d7a5f87e21" clone-depth="1" />
-  <project path="device/realme/ferrari" name="wjdob/android_device_realme_ferrari" remote="github" revision="91aed347059d346febcb23f5857c61645f290a33" upstream="refs/heads/lineage-24.0" clone-depth="1" />
+  <project path="device/realme/ferrari" name="wjdob/android_device_realme_ferrari" remote="github" revision="7b6186c70a9370884f156df15b07827d90467fb1" upstream="refs/heads/lineage-24.0" clone-depth="1" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" revision="035858697891c2e1079255ef33656663618037a1" upstream="refs/tags/android-17.0.0_r1" clone-depth="1" />
   <project path="external/AFLplusplus" name="platform/external/AFLplusplus" groups="pdk" remote="aosp" revision="42db19266843a4121d8539336b0d343936b54312" upstream="refs/tags/android-17.0.0_r1" clone-depth="1" />
   <project path="external/ComputeLibrary" name="platform/external/ComputeLibrary" groups="pdk-lassen,pdk-arsp-ag-sot,pdk-arsp-common" remote="aosp" revision="c74f72e604b78cd3a8f74556903cdd2ca9a1276a" upstream="refs/tags/android-17.0.0_r1" clone-depth="1" />
