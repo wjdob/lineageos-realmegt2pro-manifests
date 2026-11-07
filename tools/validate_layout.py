@@ -6,6 +6,7 @@ def validate(root):
     root=Path(root)
     layout=json.loads((root/'source-layout.json').read_text())
     recipe=json.loads((root/'integration/recipe.json').read_text())
+    assert hashlib.sha256((root/'integration/recipe.json').read_bytes()).hexdigest()==layout['residual_recipe_sha256']
     raw=(root/'default.xml').read_bytes()
     assert hashlib.sha256(raw).hexdigest()==layout['default_manifest_sha256']
     assert raw==(root/'integration/manifests/pinned.xml').read_bytes()
