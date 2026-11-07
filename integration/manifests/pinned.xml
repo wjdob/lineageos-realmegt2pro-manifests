@@ -1201,8 +1201,8 @@
   <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="68b3aa8a899337047ef18b22baa91dea54d9bb18" upstream="main" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="40ed70fa618f69d7ddc3af50cf337346824389b9" upstream="main" />
   <remote name="gitlab" fetch="https://gitlab.com" />
-  <project name="wjdob/android_device_realme_ferrari" path="device/realme/ferrari" remote="github" revision="6992ce948f277a161d08895ca1304271dc6090b6" upstream="refs/heads/lineage-23.2" />
-  <project name="wjdob/android_device_oneplus_sm8450-common" path="device/oneplus/sm8450-common" remote="github" revision="d55c52c474c29232b19e73d0c02311c630f090d4" upstream="refs/heads/lineage-23.2" />
+  <project name="wjdob/android_device_realme_ferrari" path="device/realme/ferrari" remote="github" revision="c3a5d7fab59f3303606e10c77730d95439c836eb" upstream="refs/heads/lineage-23.2" />
+  <project name="wjdob/android_device_oneplus_sm8450-common" path="device/oneplus/sm8450-common" remote="github" revision="b7e92722c113ebcc8fafbc6bfef0286a4ede3c17" upstream="refs/heads/lineage-23.2" />
   <project name="pjgowtham/android_hardware_oplus" path="hardware/oplus" remote="github" revision="9ed73330d06ad8ef3aa4595f6ee49837928dfda6" upstream="refs/heads/lineage-23.2" />
   <project name="pjgowtham/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="914935583f0ce199114a4a1f31178ab25a3a052d" upstream="refs/heads/lineage-23.2" />
   <project name="pjgowtham/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="d8f3eb3fe8f98facd9669aa97d1247f6580e1e58" upstream="refs/heads/lineage-23.2" />

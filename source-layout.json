@@ -4,7 +4,7 @@
   "release": "Package-23b",
   "upstream_manifest_sha256": "cd151cc92bb023019ab272ca6774bba0302903626e95729de346ec461c972cbd",
   "original_recipe_sha256": "030ad752dfbfd67bed4744bddd3921cb8e70884b67a7dc15f64a93d582baed45",
-  "default_manifest_sha256": "5335ffbdfb003dc686f72eae8b76dec5e2284ae489497adf0de6bb710811a233",
+  "default_manifest_sha256": "6c69f5479fba1f02d5bce7032538284eeed5710a57f284f18816120c3bb4b3c1",
   "components": [
     {
       "component": "ferrari",
@@ -12,7 +12,7 @@
       "version": "23.2",
       "base": "d2c4aeb99aa2e786aaa8d75a41d8737c2a8c6af6",
       "branch": "baseline/lineage-23.2",
-      "head": "6992ce948f277a161d08895ca1304271dc6090b6",
+      "head": "c3a5d7fab59f3303606e10c77730d95439c836eb",
       "files_verified": 11,
       "patch_commits": 8,
       "project": "device/realme/ferrari",
@@ -69,7 +69,7 @@
       "version": "23.2",
       "base": "8b8694732bf21cde0e1186cfe73da5f1526cdef3",
       "branch": "baseline/lineage-23.2",
-      "head": "d55c52c474c29232b19e73d0c02311c630f090d4",
+      "head": "b7e92722c113ebcc8fafbc6bfef0286a4ede3c17",
       "files_verified": 5,
       "patch_commits": 16,
       "project": "device/oneplus/sm8450-common",
